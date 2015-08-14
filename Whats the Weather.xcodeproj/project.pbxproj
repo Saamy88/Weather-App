@@ -12,6 +12,7 @@
 		4DF62EA91B7E6D2C00F7DF25 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4DF62EA71B7E6D2C00F7DF25 /* Main.storyboard */; };
 		4DF62EAB1B7E6D2C00F7DF25 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4DF62EAA1B7E6D2C00F7DF25 /* Assets.xcassets */; };
 		4DF62EAE1B7E6D2C00F7DF25 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4DF62EAC1B7E6D2C00F7DF25 /* LaunchScreen.storyboard */; };
+		4DF62EB61B7E6F5400F7DF25 /* background.png in Resources */ = {isa = PBXBuildFile; fileRef = 4DF62EB51B7E6F5400F7DF25 /* background.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		4DF62EAA1B7E6D2C00F7DF25 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4DF62EAD1B7E6D2C00F7DF25 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4DF62EAF1B7E6D2C00F7DF25 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4DF62EB51B7E6F5400F7DF25 /* background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = background.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				4DF62EA31B7E6D2C00F7DF25 /* AppDelegate.swift */,
 				4DF62EA51B7E6D2C00F7DF25 /* ViewController.swift */,
 				4DF62EA71B7E6D2C00F7DF25 /* Main.storyboard */,
+				4DF62EB51B7E6F5400F7DF25 /* background.png */,
 				4DF62EAA1B7E6D2C00F7DF25 /* Assets.xcassets */,
 				4DF62EAC1B7E6D2C00F7DF25 /* LaunchScreen.storyboard */,
 				4DF62EAF1B7E6D2C00F7DF25 /* Info.plist */,
@@ -122,6 +125,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4DF62EAE1B7E6D2C00F7DF25 /* LaunchScreen.storyboard in Resources */,
+				4DF62EB61B7E6F5400F7DF25 /* background.png in Resources */,
 				4DF62EAB1B7E6D2C00F7DF25 /* Assets.xcassets in Resources */,
 				4DF62EA91B7E6D2C00F7DF25 /* Main.storyboard in Resources */,
 			);
